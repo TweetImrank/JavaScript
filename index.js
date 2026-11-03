@@ -8,3 +8,5 @@ function add(firstNumber, secondNumber) {
 }
 
 console.log("2 + 3 =", add(2, 3));
+
+console.log('I love to code!');
